@@ -1,0 +1,180 @@
+.btn-white-round-lg {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.65rem 5.5rem;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 150%;
+  background-color: $white;
+  color: $black;
+  border: 1px solid $white;
+  outline: none;
+}
+.btn-white-round-sm {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.25rem 3.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 150%;
+  background: transparent;
+  color: $white;
+  border: 1px solid $white;
+  outline: none;
+}
+.btn-white-round-lg-outlined {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.65rem 5.5rem;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 150%;
+  background: transparent;
+  color: $white;
+  border: 1px solid $white;
+  outline: none;
+  @media only screen and (max-width: 650px) {
+    width: 100%;
+  }
+}
+.btn-white-round-sm-outlined {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.25rem 3.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 150%;
+  background: transparent;
+  color: $white;
+  border: 1px solid $white;
+  outline: none;
+  transition: color 0.3s ease, background-color 0.3s ease;
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.85);
+  }
+
+  @media only screen and (max-width: 650px) {
+    width: 100%;
+  }
+    
+  }
+
+
+.btn-black-round-lg {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.65rem 5.5rem;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 150%;
+  background-color: $black;
+  color: $white;
+  border: 1px solid $black;
+  outline: none;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.85);
+  }
+}
+.btn-black-round-sm {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.25rem 3.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 150%;
+  background-color: $black;
+  color: $white;
+  border: 1px solid $black;
+  outline: none;
+}
+.btn-black-round-lg-outlined {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.65rem 5.5rem;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 150%;
+  background-color: $white;
+  color: $black;
+  border: 1px solid $black;
+  outline: none;
+}
+.btn-black-round-sm-outlined {
+  cursor: pointer;
+  width: max-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1000px;
+  padding: 1.25rem 3.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 150%;
+  background-color: $white;
+  color: $black;
+  border: 1px solid $black;
+  outline: none;
+}
+
+.btn-icon-round-filled {
+  padding: 1.25rem 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: $white;
+  color: $black;
+  font-size: 1.75rem;
+  font-weight: 300;
+  border-radius: 1000px;
+}
+.btn-icon-round-outlined {
+  padding: 1.25rem 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid $white;
+  color: $white;
+  font-size: 1.75rem;
+  font-weight: 300;
+  border-radius: 1000px;
+  background: transparent;
+}

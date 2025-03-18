@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe00dd87.css",
+    "main.js": "/static/js/main.6e740cde.js",
+    "static/js/453.ceded47e.chunk.js": "/static/js/453.ceded47e.chunk.js",
+    "static/media/portfolio-video-1.mp4": "/static/media/portfolio-video-1.bd0bbaef13311b14de12.mp4",
+    "static/media/cta.mp4": "/static/media/cta.115d28dc6c0b072179cb.mp4",
+    "static/media/portfolio-video-11.mp4": "/static/media/portfolio-video-11.8c8cf597f2afebbcf43d.mp4",
+    "static/media/portfolio-img-7.png": "/static/media/portfolio-img-7.78f66aa232f4a7887acf.png",
+    "static/media/portfolio-img-8.png": "/static/media/portfolio-img-8.a4a0b61f5c8f53e7768e.png",
+    "static/media/portfolio-img-12.png": "/static/media/portfolio-img-12.c6292ce7d955f4cb4192.png",
+    "static/media/hero-img-2.png": "/static/media/hero-img-2.3242651aa9b6061412e8.png",
+    "static/media/usama-pp.png": "/static/media/usama-pp.e806534a6de3a8d1af44.png",
+    "static/media/portfolio-img-6.png": "/static/media/portfolio-img-6.9db40fc1dd7bb35780ee.png",
+    "static/media/portfolio-img-10.png": "/static/media/portfolio-img-10.bca814b34adfc3576cf3.png",
+    "static/media/shahram-pp.png": "/static/media/shahram-pp.8f48c9b49d349041dc31.png",
+    "static/media/laiba12.png": "/static/media/laiba12.a9bd622a79f8c81c346f.png",
+    "static/media/serviceItem5.png": "/static/media/serviceItem5.c97e9a326c8b063e22bf.png",
+    "static/media/Saim12.png": "/static/media/Saim12.2bd4f0c82c7e34129488.png",
+    "static/media/serviceItem4.png": "/static/media/serviceItem4.16a5702a0e835a9fa133.png",
+    "static/media/serviceItem6.png": "/static/media/serviceItem6.08c4c2b52b2580b22aee.png",
+    "static/media/serviceItem2.png": "/static/media/serviceItem2.975d2d6a9176ee1dcda5.png",
+    "static/media/portfolio-img-4.png": "/static/media/portfolio-img-4.c94c0c30a473e197d0ad.png",
+    "static/media/serviceItem1.png": "/static/media/serviceItem1.4a149a1bc332a029a420.png",
+    "static/media/serviceItem3.png": "/static/media/serviceItem3.7df96e804a83489e997f.png",
+    "static/media/aiza-pp.png": "/static/media/aiza-pp.0611932b7f23a254607c.png",
+    "static/media/stonk-skins.png": "/static/media/stonk-skins.fc4db3083109051ea931.png",
+    "index.html": "/index.html",
+    "static/media/closeMenu.svg": "/static/media/closeMenu.37416c8331c6f8f2407c6a22cf0d1abc.svg",
+    "static/media/Hamberguer.svg": "/static/media/Hamberguer.b189c31eff120f35835c6817fe8a84ef.svg",
+    "main.fe00dd87.css.map": "/static/css/main.fe00dd87.css.map",
+    "main.6e740cde.js.map": "/static/js/main.6e740cde.js.map",
+    "453.ceded47e.chunk.js.map": "/static/js/453.ceded47e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe00dd87.css",
+    "static/js/main.6e740cde.js"
+  ]
+}
